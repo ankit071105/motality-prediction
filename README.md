@@ -1,4 +1,4 @@
-# Health Risk Assessment Tool
+# Notality Prediction Tool
 
 An AI-powered application that assesses cardiovascular health risks using machine learning and provides personalized recommendations.
 
